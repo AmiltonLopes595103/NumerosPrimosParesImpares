@@ -1,24 +1,5 @@
-//  void main() {
-//   print("Números primos entre 1 e 100:");
 
-//   for (int i = 2; i <= 100; i++) {
-//           if (ehPrimo(i)) {
-//              print(i);
-//         }
-//     }
-// }
-
-//       bool ehPrimo(int num) {
-//          return num <= 1 ? false : !(for (int j = 2; j <= num / 2; j++)
-//   num%j==0);
-// }
    
-  
-  
- 
-   
-
-
 void main() {
   print("Números primos entre 1 e 100:");
 
