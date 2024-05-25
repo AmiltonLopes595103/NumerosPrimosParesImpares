@@ -32,17 +32,7 @@ bool ehPrimo(int num) {
 }
 
 
-// bool ehPrimo(int num) {
-  
-//  for (int j = 2; j <= num / 2; j++) {
-        
-//     return num <= 1? false : num % j == 0? false : true;
-     
-//  }
-//  return false;
 
-    
-//   }
   
 
    
